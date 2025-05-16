@@ -1,1 +1,7 @@
-
+<phone>
+    <brand>Apple</brand>
+    <model>14ProMax</model>
+    <year>2022</year>
+    <color>Purple</color>
+    <weight>240</weight>
+</phone>
